@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="ii">
+    <file>images/med.png</file>
+    <file>images/binary.png</file>
+    <file>images/hh.jpg</file>
+    <file>images/invert.png</file>
+    <file>images/brightness.png</file>
+    <file>images/edge.png</file>
+    <file>images/effects.png</file>
+    <file>images/blur.png</file>
+    <file>images/filter.png</file>
+    <file>images/home.png</file>
+    <file>images/info.png</file>
+    <file>images/men.png</file>
+    <file>images/minus_2.png</file>
+    <file>images/white_x.png</file>
+  </qresource>
+</RCC>

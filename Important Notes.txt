@@ -1,0 +1,10 @@
+ 
+Packages/fonts for installing "Maybe needed":
+
+-"caveat brush" font
+
+- qimage2ndarray package 
+"important for using array and convert it to image for qpixmap"
+
+-dicom.py is the main file 
+"connected with images.py and interface_actions.py"
